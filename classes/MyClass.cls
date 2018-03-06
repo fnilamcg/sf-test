@@ -4,7 +4,7 @@
  * This is to test GitHub
  */
 public with sharing MyClass {
-    public static String helloWorld = 'Hello World!';
+    public static String helloWorld = 'Hello There';
 
     /**
      * Return a static string
